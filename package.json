@@ -1,0 +1,15 @@
+{
+  "name": "LiveStream",
+  "version": "1.0.0",
+  "description": "A live stream",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kai Tabuchi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^2.4.0"
+  }
+}
